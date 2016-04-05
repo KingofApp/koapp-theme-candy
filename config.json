@@ -1,0 +1,64 @@
+{
+  "name": "Candy",
+  "identifier": "koapp-theme-candy",
+  "description": {
+    "en-US" : "",
+    "es-ES" : "Plantilla basada en las guías de diseño de Material Design"
+  },
+  "version": "1.0.0",
+  "author": "King of App",
+  "category": [
+    "material-design"
+  ],
+  "price": 0,
+  "platforms": [
+    "android",
+    "ios",
+    "windows"
+  ],
+  "showOn": {
+    "market": true
+  },
+  "images" : {
+    "list" : "themes/koapp-theme-candy/images/list.png",
+    "screenshots" : [
+      "themes/koapp-theme-candy/images/screenshot01.png",
+      "themes/koapp-theme-candy/images/screenshot02.png"
+    ],
+    "popover" : "themes/koapp-theme-candy/images/popover.png",
+    "banner" : "themes/koapp-theme-candy/images/banner.png"
+  },
+  "defaultConfig": {
+    "colors": {
+      "primaryTextColor": "#636363",
+      "primaryBackgroundColor": "#ffffff",
+      "secondaryTextColor": "#636363",
+      "disabledTextColor": "#2f2b16",
+      "dividerColor": "#e0e0e0",
+      "primaryColor": "#ff003c",
+      "lightPrimaryColor": "#c5cae9",
+      "darkPrimaryColor": "#ff003c",
+      "accentColor": "#fabe28",
+      "lightAccentColor": "#fabe28",
+      "darkAccentColor": "#fabe28",
+      "errorColor": "#dd2c00",
+      "backgroundColor": "#f8ecc2"
+    },
+    "images": {
+      "background": ""
+    },
+    "fonts": {
+      "primaryFontFamily": {
+        "name": "Raleway",
+        "url": "https://fonts.googleapis.com/css?family=Raleway"
+      },
+      "titleFontFamily": {
+        "name": "Bitter",
+        "url": "https://fonts.googleapis.com/css?family=Bitter"
+      }
+    },
+    "menu": "polymermenu"
+  },
+  "subscription": false,
+  "main": "themes/koapp-theme-candy/koapp-theme-candy.html"
+}

@@ -1,6 +1,6 @@
 {
   "name": "koapp-theme-candy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Plantilla basada en las guías de diseño de Material Design",
   "directories": {
     "test": "test"
